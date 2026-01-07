@@ -42,8 +42,3 @@ Notes
 The project uses Python, pandas, and regular expressions for text preprocessing.
 No internet connection is required to run the preprocessing code since stopwords are hardcoded.
 
-
-
-If you want, I can **also write a short project report version** that matches this explanation and is ready to save as `report.pdf`.
-
-Do you want me to do that next?
